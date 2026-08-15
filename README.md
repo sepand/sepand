@@ -25,6 +25,12 @@ class Sepand:
 
 ---
 
+## 🌍 Web Stack
+
+- [Zero Trust](https://sepand.github.io/ZTLens/)
+- [HELOC Amortization Calculator](https://sepand.github.io/heloc-calculator/index.html)
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
