@@ -30,6 +30,7 @@ class Sepand:
 - [AuthMatrix - Learn Identity](https://sepand.github.io/AuthMatrix/)
 - [Zero Trust](https://sepand.github.io/ZTLens/)
 - [HELOC Amortization Calculator](https://sepand.github.io/heloc-calculator/index.html)
+- [SkillScope SKILL.md analyzer](https://sepand.github.io/SkillScope/)
 ---
 
 ## 📊 GitHub Stats
